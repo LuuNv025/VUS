@@ -75,3 +75,46 @@ html, body{
     line-height: 25px;
     padding: 0 5px;
 }
+
+/* PROGRAMS */
+.programs__item{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+
+.programs__item img{
+    width: 100%;
+}
+
+.programs__item h3{
+    text-transform: uppercase;
+    margin: 10px 0;
+    font-size: 1vw;
+    color: #B31C25;
+}
+
+.programs__item p{
+    font-size: 1vw;
+    margin-top: 0;
+}
+
+/* FOOTER */
+
+.footer{
+    background-color: #B31C25;
+    color: #fff;
+    padding: 20px 50px;
+}
+
+.footer__logo{
+    float: left;
+    width: 50%;
+}
+
+.footer__contact{
+    float: right;
+    width: 50%;
+    word-spacing: 2px;
+    text-align: justify;
+}
